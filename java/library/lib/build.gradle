@@ -1,9 +1,9 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.kotlin.jvm' version '1.3.10'
+    id 'org.jetbrains.kotlin.jvm' version '1.3.60'
 }
 // Apply this file, and run `./gradlew :lib:release`, if you want to get library jar quickly.
-//apply from: "https://raw.githubusercontent.com/VerstSiu/gradle-common/master/java/jar-module-export.gradle"
+//apply from: "https://raw.githubusercontent.com/VerstSiu/gradle-common/master/java/jar-module-export-6.0.gradle"
 
 version '1.0-SNAPSHOT'
 
